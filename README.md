@@ -1,8 +1,12 @@
-## Hi there 👋
-My name is Jared, a Full Stack Developer.
+## Hi there, I'm Jared 👋
+I'm a Full Stack Developer.
 
 - 🔭 I’m currently working on The Odin Project...
 - 🌱 I’m currently learning security configuration...
+- 
+[![Jared’s github stats](https://github-readme-stats.vercel.app/api?username=Jared588)](https://github.com/Jared588)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jared588&layout=compact)](https://github.com/Jared588)
 
 <!--
 **Jared588/Jared588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
