@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is Jared, a Full Stack Developer.
+
+- 🔭 I’m currently working on The Odin Project...
+- 🌱 I’m currently learning security configuration...
 
 <!--
 **Jared588/Jared588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
