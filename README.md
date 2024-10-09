@@ -2,7 +2,7 @@
 I'm a Full Stack Developer.
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
-- 🌱 I’m currently learning security configuration...
+- 🌱 I’m currently learning about API's...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jared588&layout=compact)](https://github.com/Jared588)
 
